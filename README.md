@@ -13,6 +13,7 @@ churn prediction
 5. A large list organized by application domain: https://github.com/awesomedata/awesome-public-datasets
 6. Computer Vision Datasets (a really large list): https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
 7. Datasetlist – Datasets by domain: https://www.datasetlist.com/
+
 # Learn Python in 2 hr
 **There are 16 programs to explain the various concepts in python programming**
 - Syntex, Loop, if-else, Data Structures, Strings, File Handaling, Exception Handaling, Random Numbers, Use of Libraries
@@ -20,6 +21,7 @@ churn prediction
 ## **Python Assignment**
 - https://github.com/psrana/Assignment-Python
 ---
+
 # **PyCaret for Machine Learning**
 
 - It is a bundle of many Machine Learning algorithms.
@@ -30,12 +32,14 @@ churn prediction
 	- Clustering
 
 ---
+
 ### **1. Self Learning Resource**
 
 Tutorial on Pycaret for Regression, Classification and Clustering <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a>
 
 
 ---
+
 ### **2. In this tutorial we will learn**
 ---
 - Getting Data: How to import data from PyCaret repository
